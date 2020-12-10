@@ -38,7 +38,7 @@ public class Main {
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
             connection.setRequestMethod("GET");
 
-// -------------------- -------------------- -------------------- --------------------
+// -------------------- -------------------- -------------------- -------------------
 //            URLConnection urlConnection = url.openConnection();
 //            urlConnection.setDoOutput(true);
 //            urlConnection.connect();
